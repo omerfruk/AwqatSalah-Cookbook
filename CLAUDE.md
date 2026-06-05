@@ -48,7 +48,8 @@ AwqatSalah-Cookbook/
 ├── js/                # ✅ Node (sıfır bağımlılık, yerleşik fetch) — go/ ile aynı desen
 ├── python/            # ✅ Python (sıfır bağımlılık, stdlib urllib) — go/ ile aynı desen
 ├── php/               # ✅ PHP (sıfır bağımlılık, yerleşik curl) — go/ ile aynı desen
-└── ...                # ⏳ sonraki diller (rust, java, c#, ...) aynı deseni izler
+├── csharp/            # ✅ C# (.NET, sıfır NuGet, HttpClient+System.Text.Json) — go/ ile aynı desen
+└── ...                # ⏳ sonraki diller (rust, java, kotlin, ...) aynı deseni izler
 ```
 
 ---

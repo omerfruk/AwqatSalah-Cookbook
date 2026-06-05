@@ -73,6 +73,7 @@ Sadece token tazelemek için her dilde `--login` (Go'da `-login`) bayrağı vard
 | JavaScript (Node) | ✅ Hazır | `cd js && node index.js` | [`js/`](./js) |
 | Python | ✅ Hazır | `cd python && python3 main.py` | [`python/`](./python) |
 | PHP | ✅ Hazır | `cd php && php main.php` | [`php/`](./php) |
+| C# (.NET) | ✅ Hazır | `cd csharp/AwqatSalah && dotnet run` | [`csharp/`](./csharp) |
 | Diğerleri | ⏳ | — | — |
 
 > Yeni bir dil mi istiyorsunuz? Bir AI'a şunu söyleyin: **"`<dil>` için yap"** —

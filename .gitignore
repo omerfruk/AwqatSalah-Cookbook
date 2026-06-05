@@ -26,3 +26,8 @@ dist/
 build/
 .idea/
 .vscode/
+
+# --- .NET / C# ---
+bin/
+obj/
+*.user
