@@ -1,0 +1,15 @@
+{
+  "name": "awqatsalah-cookbook-js",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "AwqatSalah (Diyanet Namaz Vakti) API — JavaScript/Node örneği (sıfır bağımlılık)",
+  "scripts": {
+    "start": "node index.js",
+    "login": "node index.js --login",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,28 @@
+# --- Kimlik bilgileri: ASLA commit edilmez ---
+.env
+*.env
+!.env.example
+
+# Token önbelleği (login sonrası otomatik yazılır) — gizli, commit edilmez
+.awqat-token.json
+.awqat-token*
+
+# --- Go ---
+/go/bin/
+/go/awqat-demo
+*.exe
+*.test
+*.out
+
+# --- Genel ---
+.DS_Store
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+target/
+dist/
+build/
+.idea/
+.vscode/
